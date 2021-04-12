@@ -1,0 +1,17 @@
+{
+    "status" : {
+        "awaiting"      : "В ожидании обновления",
+        "collect"       : "Собирается",
+        "completed"     : "Завершено",
+        "error"         : "Ошибка",
+        "buildError"    : "Ошибка сборки",
+        "updateError"   : "Ошибка обновления",
+        "otherError"    : "Неизвестная ошибка"
+    },
+    "defaultHost" : {
+        "product1"      : "https://host1.ru",
+        "product2"      : "https://host2.ru",
+        "product3"      : "https://host3.ru"
+    }
+
+}

@@ -1,0 +1,17 @@
+{
+    "messages" : {
+        "initWorkSettings"          : "Инициализация настроек работы MobileAppMultiUpdater",
+        "initMobileAppsList"        : "Инициализация списка мобильных приложений",
+        "filterMobileApps"          : "Обработка списка полученных приложений",
+        "runBuildApps"              : "Сборка приложений",
+        "getBuildArgs"              : "Подготовка параметров для запуска сборки приложения",
+        "updateVersionMobileApp"    : "Обновление версии приложения",
+        "updateStatusMobileApp"     : "Обновление статуса приложения",
+        "loggerWrite"               : "Запись данных в хранилище логов",
+        "addRowInGoogleTable"       : "Добавление новой записи в гугл таблицу",
+        "updateMobileAppData"       : "Обновление данных мобильного приложения в гугл таблице",
+        "getRowFromGoogleTable"     : "Получение данных из гугл таблицы",
+        "buildMobileApp"            : "Сборка мобильного приложения"
+    }
+
+}

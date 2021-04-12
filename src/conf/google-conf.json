@@ -1,0 +1,9 @@
+{
+    "googleSheetUniqKey"    : "",
+    "android_versionColumnIndex"    : 12,
+    "android_lastModifyColumnIndex" : 13,
+    "android_statusColumnIndex"     : 14,
+    "ios_versionColumnIndex"        : 15,
+    "ios_lastModifyColumnIndex"     : 16,
+    "ios_statusColumnIndex"         : 17
+}
